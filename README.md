@@ -1,13 +1,32 @@
-# Karigaar
+Karigaar — Worker Hiring Platform
 
-A hiring platform for India's skilled trades — masons, electricians, plumbers,
-drivers, cooks. Workers find jobs near them and apply; employers post jobs, read
-who applied, and hire. Both sides review each other afterwards.
+A hiring platform for India's skilled workforce — masons, electricians, plumbers, drivers, and cooks. Workers can discover nearby jobs and apply, while employers can post jobs, manage applicants, and hire workers.
 
-The hard part is not the job board. It is that **many of the workers this is for
-cannot comfortably fill in a form**. So the primary way to build a worker profile
-is to talk to it: Setu, a voice assistant that asks questions in the worker's own
-language and writes the profile from the answers.
+The challenge goes beyond building a job board. Many skilled workers are not comfortable filling out digital forms. Karigaar addresses this with Setu, a voice assistant that helps workers create their profiles in their own language.
+
+🏆 Achievement
+
+🥈 2nd Place — Blue Workforce Connect ’26
+
+Proud to have built Karigaar as part of a team of four and secured second place at Blue Workforce Connect ’26.
+
+👥 Team & Contributions
+
+Karigaar was developed collaboratively by a team of four for Blue Workforce Connect ’26.
+
+1.Arpit Kumar Ranjan 
+
+2.Rajkishor Kumar
+
+3.S R Arjun
+
+4.Shiv Singh
+
+This repository showcases the team's project. 
+
+Original repository: [View here](https://github.com/Raj24-dev/Worker-Hiring-Platform-2)
+
+Certificate: [View Wooble Certificate](https://wooble.org/certifications/e82e727d9167086cb452a5878d)
 
 **Next.js 16** (App Router) · **TypeScript** · **Tailwind v4** · **shadcn/ui** ·
 **React Hook Form + Zod** · **TanStack Query** · **Server Actions** ·
