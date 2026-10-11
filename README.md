@@ -1,4 +1,4 @@
-Karigaar — Worker Hiring Platform
+# Karigaar — Worker Hiring Platform
 
 A hiring platform for India's skilled workforce — masons, electricians, plumbers, drivers, and cooks. Workers can discover nearby jobs and apply, while employers can post jobs, manage applicants, and hire workers.
 
